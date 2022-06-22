@@ -12,6 +12,6 @@ setup(
     license="MIT",
     version="0.0.1",
     packages=find_packages(),
-    install_requires=["numpy==1.18.2"],
+    install_requires=["numpy==1.22.0"],
     include_package_data=True,
 )
